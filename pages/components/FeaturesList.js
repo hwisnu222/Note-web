@@ -1,4 +1,6 @@
 import React from "react";
+import Image from "next/image";
+import { Row, Col } from "react-bootstrap";
 
 export default function FeaturesList() {
   return (
