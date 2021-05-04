@@ -59,6 +59,9 @@
 .footer {
   background-color: #fe7624;
   color: #f2f2f2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 @media (max-width: 600px) {
