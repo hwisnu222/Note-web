@@ -25,7 +25,7 @@ export default function Home() {
             <Link href="/">
               <a className="mr-md-5 py-3 py-md-0 font-weight-bold">Features</a>
             </Link>
-            <Link href="/">
+            <Link href="https://drive.google.com/file/d/1zPGzvGZMV0Sh5RhNPjdHHZeL6YK-zU2v/view?usp=sharing">
               <Button variant="dark">Download</Button>
             </Link>
           </nav>
@@ -55,7 +55,9 @@ export default function Home() {
               <p className={styles.textMobile}>
                 Tunggu apa lagi, download sekarang
               </p>
-              <Button variant="dark font-weight-bold mt-4">Download</Button>
+            <Link href="https://drive.google.com/file/d/1zPGzvGZMV0Sh5RhNPjdHHZeL6YK-zU2v/view?usp=sharing">
+                <Button variant="dark font-weight-bold mt-4">Download</Button>
+            </Link>
             </Col>
           </Row>
 
