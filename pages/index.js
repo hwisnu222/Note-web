@@ -193,15 +193,13 @@ export default function Home() {
           <div>
             <span className="mr-3">
               <Image
-                src={
-                  "https://raw.githubusercontent.com/hwisnu222/Note-web/8caee8d5b4cc7f438eb82dc988a3598f188b5652/public/assets/github.svg"
-                }
+                src="https://raw.githubusercontent.com/hwisnu222/Note-web/8caee8d5b4cc7f438eb82dc988a3598f188b5652/public/assets/github.svg"
                 width={25}
                 height={25}
               />
             </span>
             <span>
-              <Image src={"/assets/linkedin.svg"} width={25} height={25} />
+              <Image src="/assets/linkedin.svg" width={25} height={25} />
             </span>
           </div>
         </div>
